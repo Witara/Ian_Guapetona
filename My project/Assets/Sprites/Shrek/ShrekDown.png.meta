@@ -69,7 +69,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -121,169 +121,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_0
+      name: ShrekDown_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 615
-        width: 425
-        height: 613
+        y: 616
+        width: 424
+        height: 616
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9197930b01d53fa50800000000000000
-      internalID: 6553684209011620121
+      spriteID: 9fbc6eab4fe725048a13aefbd4935436
+      internalID: 428740604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_1
+      name: ShrekDown_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 616
+        width: 424
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dade19339964948a81965ec863fd4c
+      internalID: 1191618111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekDown_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 616
+        width: 424
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00dda34bb5b7048a23f49886814bc5
+      internalID: 332793371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekDown_3
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 616
+        width: 424
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb651552a11b6746871f678471fe95f
+      internalID: -492692172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekDown_4
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 616
+        width: 424
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc97393c3e1c44459ad56b7c686a83b
+      internalID: -401512411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekDown_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 423
-        height: 617
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f0dcc0eb07ea5510800000000000000
-      internalID: 1538796260902621430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_2
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 615
         width: 424
-        height: 617
+        height: 616
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 18e2f90c36eadaec0800000000000000
-      internalID: -3553992787468800383
+      spriteID: fd3c2b16867f67044814305b49501181
+      internalID: 659128875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_3
+      name: ShrekDown_6
       rect:
         serializedVersion: 2
-        x: 426
-        y: 0
-        width: 421
-        height: 617
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c9b999997eec11e0800000000000000
-      internalID: -2225641909792425531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_4
-      rect:
-        serializedVersion: 2
-        x: 847
+        x: 424
         y: 0
         width: 424
-        height: 617
+        height: 616
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ba0fb935eb30fe00800000000000000
-      internalID: 1076426166643919537
+      spriteID: 6aa41d34cb9e82149938274e7a4bd52a
+      internalID: 1786009520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_5
+      name: ShrekDown_7
       rect:
         serializedVersion: 2
-        x: 850
-        y: 615
-        width: 421
-        height: 617
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27a9d6601daa37c20800000000000000
-      internalID: 3203091574723287666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_6
-      rect:
-        serializedVersion: 2
-        x: 1271
-        y: 615
+        x: 848
+        y: 0
         width: 424
-        height: 617
+        height: 616
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa040e1d4727705d0800000000000000
-      internalID: -3096380372731019094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_down-ezgif.com-gif-to-sprite-converter_7
-      rect:
-        serializedVersion: 2
-        x: 1698
-        y: 615
-        width: 421
-        height: 617
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 661acd5e6f5906ec0800000000000000
-      internalID: -3575693216481238682
+      spriteID: 53194c0b6cf422447955dc7ed2bbe05b
+      internalID: 1048758465
       vertices: []
       indices: 
       edges: []
@@ -291,7 +291,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 05d7e43e671957441bae4ed039d9526c
     internalID: 0
     vertices: []
     indices: 
@@ -299,14 +299,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shrek_down-ezgif.com-gif-to-sprite-converter_0: 6553684209011620121
-      Shrek_down-ezgif.com-gif-to-sprite-converter_1: 1538796260902621430
-      Shrek_down-ezgif.com-gif-to-sprite-converter_2: -3553992787468800383
-      Shrek_down-ezgif.com-gif-to-sprite-converter_3: -2225641909792425531
-      Shrek_down-ezgif.com-gif-to-sprite-converter_4: 1076426166643919537
-      Shrek_down-ezgif.com-gif-to-sprite-converter_5: 3203091574723287666
-      Shrek_down-ezgif.com-gif-to-sprite-converter_6: -3096380372731019094
-      Shrek_down-ezgif.com-gif-to-sprite-converter_7: -3575693216481238682
+      ShrekDown_0: 428740604
+      ShrekDown_1: 1191618111
+      ShrekDown_2: 332793371
+      ShrekDown_3: -492692172
+      ShrekDown_4: -401512411
+      ShrekDown_5: 659128875
+      ShrekDown_6: 1786009520
+      ShrekDown_7: 1048758465
+      ShrekDown_8: 999861797
+      ShrekDown_9: -895893442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -60,7 +60,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -112,106 +112,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_0
+      name: SkiibToiIdle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 361
-        height: 570
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdeb754719a0e2070800000000000000
-      internalID: 8083410001015062235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_1
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 0
-        width: 349
-        height: 584
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8726ee628787cfb0800000000000000
-      internalID: -4627581097823819894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_2
-      rect:
-        serializedVersion: 2
-        x: 730
-        y: 0
-        width: 345
-        height: 591
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3974b1726adc11c90800000000000000
-      internalID: -7200748215684348013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_3
-      rect:
-        serializedVersion: 2
-        x: 1091
-        y: 0
-        width: 345
-        height: 594
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36267b7f442069b10800000000000000
-      internalID: 1987778780767674979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_4
-      rect:
-        serializedVersion: 2
-        x: 1452
-        y: 0
-        width: 345
         height: 595
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ecc594655f3a330b0800000000000000
-      internalID: -5750072025112027954
+      spriteID: 303b38dec21d1a541a7c0b464e0bcf04
+      internalID: -893207118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkiibToiIdle_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 361
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f86223f1d9a946922ecae3c460945
+      internalID: -1408520144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkiibToiIdle_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 361
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83035966eff087d4b843fce29ae71fdc
+      internalID: -316652280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkiibToiIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 361
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399ac84a7d2ee049bd5e55cf27f5d80
+      internalID: 342511451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkiibToiIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 361
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0c98edf9e8614a97135249e60ba7b
+      internalID: 1962830626
       vertices: []
       indices: 
       edges: []
@@ -219,7 +219,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d935070d4ebdf144b8bd6232a8e05c25
     internalID: 0
     vertices: []
     indices: 
@@ -227,11 +227,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_0: 8083410001015062235
-      Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_1: -4627581097823819894
-      Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_2: -7200748215684348013
-      Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_3: 1987778780767674979
-      Skibidi_toilet_idle-ezgif.com-gif-to-sprite-converter_4: -5750072025112027954
+      SkiibToiIdle_0: -893207118
+      SkiibToiIdle_1: -1408520144
+      SkiibToiIdle_2: -316652280
+      SkiibToiIdle_3: 342511451
+      SkiibToiIdle_4: 1962830626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

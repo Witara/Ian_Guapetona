@@ -51,7 +51,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,43 +103,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skibidi_toilet_down-ezgif.com-gif-to-sprite-converter_0
+      name: SkibToiDown_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 368
-        height: 545
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19c8f010231698090800000000000000
-      internalID: -8031781593044513647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skibidi_toilet_down-ezgif.com-gif-to-sprite-converter_1
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 0
-        width: 364
+        width: 367
         height: 554
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de1036f96cf500020800000000000000
-      internalID: 2305948315895923181
+      spriteID: 0e77f2b422b18394da305996e2cf9336
+      internalID: -2140932315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkibToiDown_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 367
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57cf836668ea464199e06befb584dbd
+      internalID: -1965035640
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6cb971100493c12429528448317bc8fb
     internalID: 0
     vertices: []
     indices: 
@@ -155,8 +155,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Skibidi_toilet_down-ezgif.com-gif-to-sprite-converter_0: -8031781593044513647
-      Skibidi_toilet_down-ezgif.com-gif-to-sprite-converter_1: 2305948315895923181
+      SkibToiDown_0: -2140932315
+      SkibToiDown_1: -1965035640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

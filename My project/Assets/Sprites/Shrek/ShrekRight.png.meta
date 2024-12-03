@@ -75,7 +75,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -127,211 +127,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_0
+      name: ShrekRight_0
       rect:
         serializedVersion: 2
         x: 0
         y: 647
-        width: 412
+        width: 411
         height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 111af0bf561616350800000000000000
-      internalID: 6008190468520648977
+      spriteID: 1400c3d9b838d3a4da095e92a4afe342
+      internalID: -2078442739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 0
-        width: 408
-        height: 648
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d45ffb7fd9c94e6f0800000000000000
-      internalID: -656227443408898739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_2
+      name: ShrekRight_1
       rect:
         serializedVersion: 2
         x: 411
-        y: 0
-        width: 410
-        height: 648
+        y: 647
+        width: 411
+        height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b6408b40d1b37940800000000000000
-      internalID: 5292769495268476598
+      spriteID: 2206fd4b523f5a34faed534b97300186
+      internalID: 1912865653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_3
-      rect:
-        serializedVersion: 2
-        x: 412
-        y: 646
-        width: 408
-        height: 648
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afe34bc953b723890800000000000000
-      internalID: -7479780560916431110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_4
+      name: ShrekRight_2
       rect:
         serializedVersion: 2
         x: 822
         y: 647
-        width: 410
+        width: 411
         height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 56ee1ff7794cd4510800000000000000
-      internalID: 1535099202968874597
+      spriteID: 744460aae9efc7d438638d5ad1cf2c5c
+      internalID: 1519924423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_5
-      rect:
-        serializedVersion: 2
-        x: 823
-        y: 0
-        width: 408
-        height: 648
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc80b83e5ff8acc90800000000000000
-      internalID: -7148743172249941809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_6
+      name: ShrekRight_3
       rect:
         serializedVersion: 2
         x: 1233
-        y: 0
-        width: 410
-        height: 648
+        y: 647
+        width: 411
+        height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dfb8ac0a7590ae150800000000000000
-      internalID: 5902540533586889725
+      spriteID: 86fea25b4512972478791ddc452559fe
+      internalID: -1336485573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_7
-      rect:
-        serializedVersion: 2
-        x: 1234
-        y: 646
-        width: 408
-        height: 648
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9dc369aa07c3e810800000000000000
-      internalID: 1793495925229079965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_8
+      name: ShrekRight_4
       rect:
         serializedVersion: 2
         x: 1644
         y: 647
-        width: 410
+        width: 411
         height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de7918c042e0da5a0800000000000000
-      internalID: -6508530338489067539
+      spriteID: a7662ed5fd0b7204c81d68b55377c433
+      internalID: -245223948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_right-ezgif.com-gif-to-sprite-converter_9
+      name: ShrekRight_5
       rect:
         serializedVersion: 2
-        x: 1645
+        x: 0
         y: 0
-        width: 408
-        height: 648
+        width: 411
+        height: 647
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f8d5bd10cdcf92b00800000000000000
-      internalID: 804452030316502415
+      spriteID: 6560dd18c45d2934bb00594028747a27
+      internalID: 1662522655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekRight_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 411
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59afbf93982984590bd5a9c2a9618f
+      internalID: 459531101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekRight_7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 411
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21558b5d962e84eac39b73bccdd243
+      internalID: -2084012514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekRight_8
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 411
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97003962de81b4e98be727afcaf6cb
+      internalID: 1372464437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekRight_9
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 411
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f2394a42e2634f9eb4ae94fc28da4
+      internalID: 1206161633
       vertices: []
       indices: 
       edges: []
@@ -339,7 +339,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dbfa15119d3fa654cadb63e95689236c
     internalID: 0
     vertices: []
     indices: 
@@ -347,16 +347,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shrek_right-ezgif.com-gif-to-sprite-converter_0: 6008190468520648977
-      Shrek_right-ezgif.com-gif-to-sprite-converter_1: -656227443408898739
-      Shrek_right-ezgif.com-gif-to-sprite-converter_2: 5292769495268476598
-      Shrek_right-ezgif.com-gif-to-sprite-converter_3: -7479780560916431110
-      Shrek_right-ezgif.com-gif-to-sprite-converter_4: 1535099202968874597
-      Shrek_right-ezgif.com-gif-to-sprite-converter_5: -7148743172249941809
-      Shrek_right-ezgif.com-gif-to-sprite-converter_6: 5902540533586889725
-      Shrek_right-ezgif.com-gif-to-sprite-converter_7: 1793495925229079965
-      Shrek_right-ezgif.com-gif-to-sprite-converter_8: -6508530338489067539
-      Shrek_right-ezgif.com-gif-to-sprite-converter_9: 804452030316502415
+      ShrekRight_0: -2078442739
+      ShrekRight_1: 1912865653
+      ShrekRight_2: 1519924423
+      ShrekRight_3: -1336485573
+      ShrekRight_4: -245223948
+      ShrekRight_5: 1662522655
+      ShrekRight_6: 459531101
+      ShrekRight_7: -2084012514
+      ShrekRight_8: 1372464437
+      ShrekRight_9: 1206161633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
