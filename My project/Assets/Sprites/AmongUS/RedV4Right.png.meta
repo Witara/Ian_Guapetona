@@ -51,7 +51,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,43 +103,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedV4Right-ezgif.com-gif-to-sprite-converter_0
+      name: RedV4Right_0
       rect:
         serializedVersion: 2
-        x: 26
+        x: 0
         y: 0
-        width: 392
+        width: 422
         height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 53b3d7e57d7327080800000000000000
-      internalID: -9191222491366999243
+      spriteID: 1269861d4d2a8794ba17df0820c4778f
+      internalID: 1610885172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedV4Right-ezgif.com-gif-to-sprite-converter_1
+      name: RedV4Right_1
       rect:
         serializedVersion: 2
         x: 422
-        y: 9
-        width: 844
-        height: 374
+        y: 0
+        width: 422
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8311e499a0e448680800000000000000
-      internalID: -8753785968272731848
+      spriteID: 16797118888a3954e8474906e70d609a
+      internalID: -291357923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedV4Right_2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 422
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d282a5321c09af408ba9fc34ebc0309
+      internalID: 1990400034
       vertices: []
       indices: 
       edges: []
@@ -147,7 +168,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d45f1d08b1f2d5148bf663c085a1ebc1
     internalID: 0
     vertices: []
     indices: 
@@ -155,8 +176,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RedV4Right-ezgif.com-gif-to-sprite-converter_0: -9191222491366999243
-      RedV4Right-ezgif.com-gif-to-sprite-converter_1: -8753785968272731848
+      RedV4Right_0: 1610885172
+      RedV4Right_1: -291357923
+      RedV4Right_2: 1990400034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

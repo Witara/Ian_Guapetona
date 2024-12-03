@@ -90,7 +90,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -142,112 +142,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_0
+      name: RickIdle_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 847
-        width: 363
-        height: 848
+        y: 1694
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 876060cd7436e5d40800000000000000
-      internalID: 5575002549016462968
+      spriteID: 5c20dd43590db704ebd8aeba58bf2cdb
+      internalID: 1807682807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_1
+      name: RickIdle_1
       rect:
         serializedVersion: 2
-        x: 4
+        x: 369
         y: 1694
-        width: 365
-        height: 841
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fe421992694931cc0800000000000000
-      internalID: -3741483492751366929
+      spriteID: 576091af1d60ae74b883c7ba8d67c5f4
+      internalID: -1828298505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_2
+      name: RickIdle_2
       rect:
         serializedVersion: 2
-        x: 373
+        x: 738
         y: 1694
-        width: 365
-        height: 841
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b69a5eb58ff3b1f20800000000000000
-      internalID: 3394377080080017771
+      spriteID: be1bf9e520e2029468798821ac3939d2
+      internalID: 2118420233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_3
+      name: RickIdle_3
       rect:
         serializedVersion: 2
-        x: 744
+        x: 1107
         y: 1694
-        width: 359
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c57c3096c1c855ea0800000000000000
-      internalID: -5884643284440856740
+      spriteID: 42318e96418d5044e88441f728f14d94
+      internalID: 1805419636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_4
-      rect:
-        serializedVersion: 2
-        x: 1113
-        y: 1694
-        width: 359
-        height: 846
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d0a28a0e4b37ece0800000000000000
-      internalID: -1376065954768576301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_5
+      name: RickIdle_4
       rect:
         serializedVersion: 2
         x: 1476
@@ -259,199 +238,220 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 224294e2fb44a06d0800000000000000
-      internalID: -3023528611919879134
+      spriteID: 987eba311529d704a822bf8ff36f23c5
+      internalID: 336924153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_6
+      name: RickIdle_5
       rect:
         serializedVersion: 2
-        x: 367
+        x: 0
         y: 847
-        width: 365
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c337522e98a1fbf0800000000000000
-      internalID: -292267103667932224
+      spriteID: b640d3343ed848942a789658f66d48a7
+      internalID: -1909937335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_7
+      name: RickIdle_6
       rect:
         serializedVersion: 2
-        x: 737
+        x: 369
         y: 847
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dcced17a8ef1dbe90800000000000000
-      internalID: -7008410361021993779
+      spriteID: 50a19761eb73c3741a3b64bc1e3c0141
+      internalID: 128915403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_8
+      name: RickIdle_7
       rect:
         serializedVersion: 2
-        x: 1106
+        x: 738
         y: 847
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c4d5610edfb46ed0800000000000000
-      internalID: -2421599739391388476
+      spriteID: a6e3358554708d340bbfbc22e5bde412
+      internalID: 1410685841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_9
+      name: RickIdle_8
       rect:
         serializedVersion: 2
-        x: 1475
+        x: 1107
         y: 847
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5f09a800493798d0800000000000000
-      internalID: -2839738092847820966
+      spriteID: 53f722c3816c7e14bb4f462ee93e3143
+      internalID: 688804552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_10
+      name: RickIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 847
+        width: 369
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad768111204df514b8c4ef60617ac608
+      internalID: 46664969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RickIdle_10
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 363
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 96ace12d212744de0800000000000000
-      internalID: -1349828563144095127
+      spriteID: fa6e35ead3ca798439ebcd5b8cc73113
+      internalID: -1359024359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_11
+      name: RickIdle_11
       rect:
         serializedVersion: 2
-        x: 368
+        x: 369
         y: 0
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 756cad750067820e0800000000000000
-      internalID: -2294454266299234729
+      spriteID: e47dd813923e77e44b164631ca1505e0
+      internalID: 468264471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_12
+      name: RickIdle_12
       rect:
         serializedVersion: 2
-        x: 737
+        x: 738
         y: 0
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7ad0cbf6a23235a50800000000000000
-      internalID: 6508584551650692519
+      spriteID: 33fa38cdfaabc694c8a4ee0b390001cf
+      internalID: -194032809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_13
+      name: RickIdle_13
       rect:
         serializedVersion: 2
-        x: 1106
+        x: 1107
         y: 0
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 36739837bd6070020800000000000000
-      internalID: 2307820873656645475
+      spriteID: 63379fa26afd6bc48bc56ecd0ca9b189
+      internalID: -1070230976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_14
+      name: RickIdle_14
       rect:
         serializedVersion: 2
-        x: 1475
+        x: 1476
         y: 0
-        width: 364
-        height: 846
+        width: 369
+        height: 847
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 106e67f8daa10f570800000000000000
-      internalID: 8498321829586724353
+      spriteID: 01fdc7052a9cbd2428e642ab8799f687
+      internalID: 1347828432
       vertices: []
       indices: 
       edges: []
@@ -459,7 +459,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3efa8904a0bf60b439a3117b22359cac
     internalID: 0
     vertices: []
     indices: 
@@ -467,21 +467,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_0: 5575002549016462968
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_1: -3741483492751366929
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_10: -1349828563144095127
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_11: -2294454266299234729
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_12: 6508584551650692519
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_13: 2307820873656645475
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_14: 8498321829586724353
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_2: 3394377080080017771
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_3: -5884643284440856740
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_4: -1376065954768576301
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_5: -3023528611919879134
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_6: -292267103667932224
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_7: -7008410361021993779
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_8: -2421599739391388476
-      SOAFNRickIdle-ezgif.com-gif-to-sprite-converter_9: -2839738092847820966
+      RickIdle_0: 1807682807
+      RickIdle_1: -1828298505
+      RickIdle_10: -1359024359
+      RickIdle_11: 468264471
+      RickIdle_12: -194032809
+      RickIdle_13: -1070230976
+      RickIdle_14: 1347828432
+      RickIdle_2: 2118420233
+      RickIdle_3: 1805419636
+      RickIdle_4: 336924153
+      RickIdle_5: -1909937335
+      RickIdle_6: 128915403
+      RickIdle_7: 1410685841
+      RickIdle_8: 688804552
+      RickIdle_9: 46664969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

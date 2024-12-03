@@ -250,7 +250,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_0: -7842706998607376202
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_1: -6943439317759457476
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_2: -2254429621471109521
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_3: 5961704016403795248
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_4: 8286040264652839199
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_5: 7495529673454562061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

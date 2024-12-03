@@ -106,64 +106,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedV4Down-ezgif.com-gif-to-sprite-converter_0
+      name: RedV4Down_0
       rect:
         serializedVersion: 2
-        x: 42
+        x: 0
         y: 0
-        width: 467
-        height: 364
+        width: 520
+        height: 419
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 50fba65b18f494000800000000000000
-      internalID: 20635091812925189
+      spriteID: bb4199daeb05059458f81b8c0efb790e
+      internalID: -790577592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedV4Down-ezgif.com-gif-to-sprite-converter_1
+      name: RedV4Down_1
       rect:
         serializedVersion: 2
         x: 520
-        y: 16
+        y: 0
         width: 520
-        height: 403
+        height: 419
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47a0f346818cb2670800000000000000
-      internalID: 8515119527560678004
+      spriteID: ce8c5da277214c44e88b7f7575ff1f10
+      internalID: 925564122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedV4Down-ezgif.com-gif-to-sprite-converter_2
+      name: RedV4Down_2
       rect:
         serializedVersion: 2
         x: 1040
-        y: 18
+        y: 0
         width: 520
-        height: 401
+        height: 419
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6c749576dc678df60800000000000000
-      internalID: 8059322157753780166
+      spriteID: 111dd2c46bcfa3c489cb08a866e2117b
+      internalID: 1438446701
       vertices: []
       indices: 
       edges: []
@@ -171,7 +171,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 216707e9e6eb3d24da038c2c87ae59e0
     internalID: 0
     vertices: []
     indices: 
@@ -179,9 +179,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RedV4Down-ezgif.com-gif-to-sprite-converter_0: 20635091812925189
-      RedV4Down-ezgif.com-gif-to-sprite-converter_1: 8515119527560678004
-      RedV4Down-ezgif.com-gif-to-sprite-converter_2: 8059322157753780166
+      RedV4Down_0: -790577592
+      RedV4Down_1: 925564122
+      RedV4Down_2: 1438446701
+      RedV4Down_3: 1733899030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
