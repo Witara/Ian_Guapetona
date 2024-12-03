@@ -63,7 +63,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -115,127 +115,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_0
+      name: ShrekIdle_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 619
-        width: 420
-        height: 617
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b09986898b192390800000000000000
-      internalID: -7842706998607376202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_1
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 617
-        width: 428
-        height: 603
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3787797ab2f3af90800000000000000
-      internalID: -6943439317759457476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_2
-      rect:
-        serializedVersion: 2
-        x: 854
+        x: 0
         y: 618
-        width: 425
-        height: 598
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f6e98192438a6b0e0800000000000000
-      internalID: -2254429621471109521
+      spriteID: 8b9c85238ee448649907c940ddd7b773
+      internalID: -920599800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_3
+      name: ShrekIdle_1
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 619
-        width: 425
-        height: 593
+        x: 426
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03d84c9673a3cb250800000000000000
-      internalID: 5961704016403795248
+      spriteID: 360031e3a2263a34fb5276f1e6c3425f
+      internalID: -497996016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_4
+      name: ShrekIdle_2
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 619
-        width: 422
-        height: 613
+        x: 852
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f19573928bdedf270800000000000000
-      internalID: 8286040264652839199
+      spriteID: ced0d0930e4fc964f8f4404e380ebcc4
+      internalID: 1112023684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_idle-ezgif.com-gif-to-sprite-converter_5
+      name: ShrekIdle_3
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1
-        width: 424
-        height: 615
+        x: 1278
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d0ba8a56688750860800000000000000
-      internalID: 7495529673454562061
+      spriteID: 16a34de543a8c6341a84d35fd310a570
+      internalID: 499448681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 618
+        width: 426
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2468a2aecc17f4e8581e7f15c442bc
+      internalID: 15236550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrekIdle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b330a98b44cb4eaa77f7f2a20df90
+      internalID: -1828973144
       vertices: []
       indices: 
       edges: []
@@ -243,7 +243,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 39a37f021ba8b854097de15cbd961a72
     internalID: 0
     vertices: []
     indices: 
@@ -251,12 +251,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_0: -7842706998607376202
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_1: -6943439317759457476
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_2: -2254429621471109521
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_3: 5961704016403795248
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_4: 8286040264652839199
-      Shrek_idle-ezgif.com-gif-to-sprite-converter_5: 7495529673454562061
+      ShrekIdle_0: -920599800
+      ShrekIdle_1: -497996016
+      ShrekIdle_2: 1112023684
+      ShrekIdle_3: 499448681
+      ShrekIdle_4: 15236550
+      ShrekIdle_5: -1828973144
+      ShrekIdle_6: -586189454
+      ShrekIdle_7: -1672590177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

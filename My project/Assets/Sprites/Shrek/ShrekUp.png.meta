@@ -51,7 +51,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,10 +103,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shrek_up-ezgif.com-gif-to-sprite-converter_0
+      name: ShrekUp_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
         width: 384
         height: 607
@@ -115,31 +115,31 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8108cc7c28bddc5f0800000000000000
-      internalID: -734689809447223272
+      spriteID: 857e23592a58c3f4e85b182d248cce5f
+      internalID: 1136659118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shrek_up-ezgif.com-gif-to-sprite-converter_1
+      name: ShrekUp_1
       rect:
         serializedVersion: 2
-        x: 383
+        x: 384
         y: 0
-        width: 386
+        width: 384
         height: 607
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 667877fb991c309d0800000000000000
-      internalID: -2809188876462618778
+      spriteID: b6347695322587d4f911a73b1dcdd602
+      internalID: 76741046
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 28d96c1bc487d084c9cbb877246e123a
     internalID: 0
     vertices: []
     indices: 
@@ -155,8 +155,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shrek_up-ezgif.com-gif-to-sprite-converter_0: -734689809447223272
-      Shrek_up-ezgif.com-gif-to-sprite-converter_1: -2809188876462618778
+      ShrekUp_0: 1136659118
+      ShrekUp_1: 76741046
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

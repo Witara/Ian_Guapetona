@@ -63,7 +63,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -115,127 +115,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_0
+      name: smurfIdle_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 588
-        width: 378
-        height: 579
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0f0407dea0661db0800000000000000
-      internalID: -4821560047005593844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 379
-        height: 590
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ecf161a8758fcf300800000000000000
-      internalID: 287377531107418062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_2
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 588
-        width: 378
-        height: 579
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3b0519fb92fa5b00800000000000000
-      internalID: 818233034033924926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_3
-      rect:
-        serializedVersion: 2
-        x: 770
-        y: 588
-        width: 379
-        height: 583
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e4bf8c68ccd62240800000000000000
-      internalID: 4766740008991175912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_4
-      rect:
-        serializedVersion: 2
-        x: 1150
-        y: 588
-        width: 380
+        y: 589
+        width: 383
         height: 589
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e1e7a718416c785f0800000000000000
-      internalID: -754416621187334626
+      spriteID: 6cb75591d3dea824b8d0decc567dd29d
+      internalID: 855491465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_5
+      name: smurfIdle_1
       rect:
         serializedVersion: 2
-        x: 1531
-        y: 588
-        width: 381
-        height: 590
+        x: 383
+        y: 589
+        width: 383
+        height: 589
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c5ec6bed288b791d0800000000000000
-      internalID: -3344001326077522340
+      spriteID: 2b933bb366fa00e4d88a0887ecc42258
+      internalID: 2133946995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smurfIdle_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 589
+        width: 383
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6bc9ff5230c24d887b2cb5e15feaa
+      internalID: 1131883323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smurfIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 589
+        width: 383
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600562e383abf443b8fe8e189d4b463
+      internalID: -483337095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smurfIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 589
+        width: 383
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61129ef34eb72cb43bba940e5018dad5
+      internalID: 1790942344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smurfIdle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f7a2be37074941a600616296a006a
+      internalID: 1251319207
       vertices: []
       indices: 
       edges: []
@@ -243,7 +243,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 08e82372f1254244aa984eeab24217ba
     internalID: 0
     vertices: []
     indices: 
@@ -251,12 +251,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_0: -4821560047005593844
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_1: 287377531107418062
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_2: 818233034033924926
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_3: 4766740008991175912
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_4: -754416621187334626
-      We_live_we_love_we_lie_idle-ezgif.com-gif-to-sprite-converter_5: -3344001326077522340
+      smurfIdle_0: 855491465
+      smurfIdle_1: 2133946995
+      smurfIdle_2: 1131883323
+      smurfIdle_3: -483337095
+      smurfIdle_4: 1790942344
+      smurfIdle_5: 1251319207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

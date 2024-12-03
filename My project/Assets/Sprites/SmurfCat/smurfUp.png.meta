@@ -66,7 +66,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -118,148 +118,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_0
+      name: smurfUp_0
       rect:
         serializedVersion: 2
         x: 0
         y: 643
-        width: 378
+        width: 377
         height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a443e48833b6984c0800000000000000
-      internalID: -4284775701391985590
+      spriteID: 83a1ecbd1c487664fa26c321b2128c8c
+      internalID: 1125745993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_1
+      name: smurfUp_1
       rect:
         serializedVersion: 2
-        x: 376
+        x: 377
         y: 643
-        width: 379
-        height: 631
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 572659819830226a0800000000000000
-      internalID: -6475609426847505803
+      spriteID: 41ae051bef8ac5746bd477755835d19d
+      internalID: -752483151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_2
+      name: smurfUp_2
       rect:
         serializedVersion: 2
-        x: 753
+        x: 754
         y: 643
-        width: 378
-        height: 627
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 008ebd292e6d67d30800000000000000
-      internalID: 4428963552180299776
+      spriteID: a4003acc7895f07499e2bfd7e46c824c
+      internalID: 1200179702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_3
+      name: smurfUp_3
       rect:
         serializedVersion: 2
-        x: 1130
+        x: 1131
         y: 643
-        width: 378
-        height: 624
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 58a7ddc4aa61314a0800000000000000
-      internalID: -6623925706242033019
+      spriteID: e4c9a2185ecadec43951e1cb8baf64fe
+      internalID: -432501972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_4
+      name: smurfUp_4
       rect:
         serializedVersion: 2
-        x: 1507
+        x: 1508
         y: 643
-        width: 378
-        height: 624
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 56e4b1270c4c8c420800000000000000
-      internalID: 2650584711534693989
+      spriteID: f1caa0b8a901b434dacc6353b31f117a
+      internalID: -1380107325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_5
+      name: smurfUp_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 373
-        height: 605
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9f8fc2a7cb98c2360800000000000000
-      internalID: 7146238151326759161
+      spriteID: 0927379e96b921746880a7d0eb71fcf1
+      internalID: -851290695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_6
+      name: smurfUp_6
       rect:
         serializedVersion: 2
-        x: 386
+        x: 377
         y: 0
-        width: 360
-        height: 587
+        width: 377
+        height: 643
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f5529c7f0460b5180800000000000000
-      internalID: -9125693343831349921
+      spriteID: e7e384e2dbd531448b2bfc2b08b210a4
+      internalID: 470324987
       vertices: []
       indices: 
       edges: []
@@ -267,7 +267,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: eb5e862fafeab61429614b415b045368
     internalID: 0
     vertices: []
     indices: 
@@ -275,13 +275,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_0: -4284775701391985590
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_1: -6475609426847505803
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_2: 4428963552180299776
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_3: -6623925706242033019
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_4: 2650584711534693989
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_5: 7146238151326759161
-      We_live_we_love_we_lie_up-ezgif.com-gif-to-sprite-converter_6: -9125693343831349921
+      smurfUp_0: 1125745993
+      smurfUp_1: -752483151
+      smurfUp_2: 1200179702
+      smurfUp_3: -432501972
+      smurfUp_4: -1380107325
+      smurfUp_5: -851290695
+      smurfUp_6: 470324987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

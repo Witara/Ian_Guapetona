@@ -51,7 +51,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,43 +103,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skibidi_toilet_up-ezgif.com-gif-to-sprite-converter_0
+      name: SkibToiUp_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 355
+        width: 359
         height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 411cf5725cae45f40800000000000000
-      internalID: 5716451959530045716
+      spriteID: 9b83b35d57302f04bb158d45242d2e8f
+      internalID: -1202476243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skibidi_toilet_up-ezgif.com-gif-to-sprite-converter_1
+      name: SkibToiUp_1
       rect:
         serializedVersion: 2
-        x: 358
+        x: 359
         y: 0
-        width: 361
-        height: 586
+        width: 359
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4cd0661f84408990800000000000000
-      internalID: -7385828007541154740
+      spriteID: 85b0039cabe9644469619bc29485271b
+      internalID: -2118215531
       vertices: []
       indices: 
       edges: []
@@ -147,7 +147,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ad7a9fbc3b75ce84c927ab780393fc9d
     internalID: 0
     vertices: []
     indices: 
@@ -155,8 +155,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Skibidi_toilet_up-ezgif.com-gif-to-sprite-converter_0: 5716451959530045716
-      Skibidi_toilet_up-ezgif.com-gif-to-sprite-converter_1: -7385828007541154740
+      SkibToiUp_0: -1202476243
+      SkibToiUp_1: -2118215531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

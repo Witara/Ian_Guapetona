@@ -66,7 +66,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -118,148 +118,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_0
+      name: smurfRight_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 544
-        width: 467
-        height: 539
+        x: 0
+        y: 545
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c9352a95ac73f81e0800000000000000
-      internalID: -2193473151279410276
+      spriteID: 0a1332315ac19d842af012977e68b89b
+      internalID: -1444603168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_1
+      name: smurfRight_1
       rect:
         serializedVersion: 2
-        x: 488
-        y: 0
-        width: 431
-        height: 546
+        x: 482
+        y: 545
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eabd5bff360970870800000000000000
-      internalID: 8649040368554597294
+      spriteID: 5fceebbd0ab9eea4f89bef3ed26e9986
+      internalID: -1250345529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_2
+      name: smurfRight_2
       rect:
         serializedVersion: 2
-        x: 491
-        y: 544
-        width: 467
-        height: 538
+        x: 964
+        y: 545
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a6825428f596c27b0800000000000000
-      internalID: -5247703606865090454
+      spriteID: f264e594f73ec2740bfd8885f49a3ad0
+      internalID: -259633437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_3
+      name: smurfRight_3
       rect:
         serializedVersion: 2
-        x: 971
-        y: 544
-        width: 461
-        height: 538
+        x: 1446
+        y: 545
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a578b7404434814c0800000000000000
-      internalID: -4316626283422578854
+      spriteID: 08c4809428305a94391c2bf196a0e075
+      internalID: -1086579940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_4
+      name: smurfRight_4
       rect:
         serializedVersion: 2
-        x: 1454
-        y: 544
-        width: 457
-        height: 539
+        x: 1928
+        y: 545
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae2021f451b1861b0800000000000000
-      internalID: -5663246753083555094
+      spriteID: 5eada6da5e7e05442a88e0bd9dbd5614
+      internalID: -1980155513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_5
-      rect:
-        serializedVersion: 2
-        x: 1935
-        y: 544
-        width: 458
-        height: 540
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5832dedad1ce28900800000000000000
-      internalID: 685369705529942917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_6
+      name: smurfRight_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 450
-        height: 539
+        width: 482
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fd2f2a201ddd37e20800000000000000
-      internalID: 3347262837828547295
+      spriteID: 5d375dbe0b9560a458995e2ab9c137d9
+      internalID: -8603949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smurfRight_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 482
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bab63e75369a24791657e2c8cfd5c8
+      internalID: -318917330
       vertices: []
       indices: 
       edges: []
@@ -267,7 +267,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0727b3fd15238b34f8cc1c1695080c34
     internalID: 0
     vertices: []
     indices: 
@@ -275,13 +275,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_0: -2193473151279410276
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_1: 8649040368554597294
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_2: -5247703606865090454
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_3: -4316626283422578854
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_4: -5663246753083555094
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_5: 685369705529942917
-      We_live_we_love_we_lie_right-ezgif.com-gif-to-sprite-converter_6: 3347262837828547295
+      smurfRight_0: -1444603168
+      smurfRight_1: -1250345529
+      smurfRight_2: -259633437
+      smurfRight_3: -1086579940
+      smurfRight_4: -1980155513
+      smurfRight_5: -8603949
+      smurfRight_6: -318917330
+      smurfRight_7: -1154558668
+      smurfRight_8: 665283150
+      smurfRight_9: -1048378945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

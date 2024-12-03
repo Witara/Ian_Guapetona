@@ -63,7 +63,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -118,10 +118,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 619
-        width: 420
-        height: 617
+        x: 0
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,10 +139,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_1
       rect:
         serializedVersion: 2
-        x: 425
-        y: 617
-        width: 428
-        height: 603
+        x: 426
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_2
       rect:
         serializedVersion: 2
-        x: 854
+        x: 852
         y: 618
-        width: 425
-        height: 598
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_3
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 619
-        width: 425
-        height: 593
+        x: 1278
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,10 +202,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_4
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 619
-        width: 422
-        height: 613
+        x: 1704
+        y: 618
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: Shrek_idle-ezgif.com-gif-to-sprite-converter_5
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1
-        width: 424
-        height: 615
+        x: 0
+        y: 0
+        width: 426
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,14 +243,22 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 094de385908eadd4392b4320bc30d36d
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_0: -7842706998607376202
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_1: -6943439317759457476
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_2: -2254429621471109521
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_3: 5961704016403795248
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_4: 8286040264652839199
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_5: 7495529673454562061
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_6: -52748072
+      Shrek_idle-ezgif.com-gif-to-sprite-converter_7: 254394655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
