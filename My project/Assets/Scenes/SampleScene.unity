@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 231890062}
   - component: {fileID: 231890061}
   - component: {fileID: 231890060}
+  - component: {fileID: 231890063}
   m_Layer: 0
   m_Name: Shrek_idle-ezgif.com-gif-to-sprite-converter_0
   m_TagString: Untagged
@@ -228,6 +229,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &231890063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231890059}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f45b02a3000934c8994a090b2ecb74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,7 +797,7 @@ Transform:
   m_GameObject: {fileID: 1817615707}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.758, y: 0.075399995, z: 0}
+  m_LocalPosition: {x: -2.72, y: 0.075399995, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -813,6 +826,7 @@ GameObject:
   - component: {fileID: 1933573376}
   - component: {fileID: 1933573375}
   - component: {fileID: 1933573374}
+  - component: {fileID: 1933573377}
   m_Layer: 0
   m_Name: SkibToiDown_0
   m_TagString: Untagged
@@ -911,6 +925,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1933573377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1933573373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebceabc0fec1b0f4f86f8c2e75714112, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2103987576
 GameObject:
   m_ObjectHideFlags: 0
