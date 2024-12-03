@@ -460,6 +460,7 @@ GameObject:
   - component: {fileID: 969358277}
   - component: {fileID: 969358276}
   - component: {fileID: 969358275}
+  - component: {fileID: 969358278}
   m_Layer: 0
   m_Name: RedV4Down_0
   m_TagString: Untagged
@@ -558,6 +559,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &969358278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969358274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c665895992143af46a9d68935ed698eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1198451562
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,6 +691,7 @@ GameObject:
   - component: {fileID: 1817615710}
   - component: {fileID: 1817615709}
   - component: {fileID: 1817615708}
+  - component: {fileID: 1817615711}
   m_Layer: 0
   m_Name: RickDown_0
   m_TagString: Untagged
@@ -776,6 +790,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1817615711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1817615707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6471d7d1d78667d43bf2251f561bc2ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1933573373
 GameObject:
   m_ObjectHideFlags: 0
