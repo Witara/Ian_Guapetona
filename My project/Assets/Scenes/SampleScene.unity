@@ -1020,6 +1020,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   screenBounds: {x: 0, y: 10}
+  arrowDirection: 
 --- !u!1 &1933573373
 GameObject:
   m_ObjectHideFlags: 0

@@ -38,10 +38,6 @@ public class ObjectSpawner : MonoBehaviour
             {
                 SpawnObject();
             }
-            else
-            {
-                Debug.LogError("objectToSpawn is not assigned or has been destroyed!");
-            }
         }
     }
 
@@ -60,38 +56,36 @@ public class ObjectSpawner : MonoBehaviour
         {
             case 0: // Up
                 directionText = "Up";
-                rotation = new Vector3(0f, 0f, -90f); // Set rotation for Up
-                xPosition = 2f; // Consistent X position for Up
+                rotation = new Vector3(0f, 0f, -90f);
+                xPosition = 2f;
                 break;
             case 1: // Down
                 directionText = "Down";
-                rotation = new Vector3(0f, 0f, -270f); // Set rotation for Down
-                xPosition = 0f; // Consistent X position for Down
+                rotation = new Vector3(0f, 0f, -270f);
+                xPosition = 0f;
                 break;
             case 2: // Left
                 directionText = "Left";
-                rotation = new Vector3(0f, 0f, -360f); // Set rotation for Left
-                xPosition = -2f; // Consistent X position for Left
+                rotation = new Vector3(0f, 0f, -360f);
+                xPosition = -2f;
                 break;
             case 3: // Right
                 directionText = "Right";
-                rotation = new Vector3(0f, 0f, -180f); // Set rotation for Right
-                xPosition = 4f; // Consistent X position for Right
+                rotation = new Vector3(0f, 0f, -180f);
+                xPosition = 4f;
                 break;
         }
 
         // Set the rotation and position
-        newObject.transform.eulerAngles = rotation; // Apply manual rotation
+        newObject.transform.eulerAngles = rotation;
         newObject.transform.position = new Vector3(xPosition, -50, 0);
 
-        // Assign screen bounds to the object for deletion logic
+        // Assign the direction to the MovingObject script
         MovingObject movingObjectScript = newObject.GetComponent<MovingObject>();
         if (movingObjectScript != null)
         {
             movingObjectScript.screenBounds = screenBounds;
+            movingObjectScript.arrowDirection = directionText; // Pass direction info
         }
-
-        // Log the chosen direction and rotation
-        Debug.Log($"Spawned Object Facing: {directionText} at X: {xPosition} with rotation {rotation}");
     }
 }
