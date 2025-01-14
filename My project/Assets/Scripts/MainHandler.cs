@@ -10,9 +10,6 @@ public class MainHandler : MonoBehaviour
 
     private bool onTime;
 
-    private bool missClick;
-    private bool miss;
-
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -22,38 +19,28 @@ public class MainHandler : MonoBehaviour
     {
         // Find the arrow with the least Y position that's still on screen
         currentArrow = ObjectSpawner.spawnedArrows
-            .Where(arrow => arrow != null && arrow.transform.position.y > -5f && arrow.transform.position.y < 3.5f)
+            .Where(arrow => arrow != null && arrow.transform.position.y > -5f && arrow.transform.position.y < 8f)
             .OrderBy(arrow => arrow.transform.position.y)
             .FirstOrDefault();
 
         if (currentArrow != null)
         {
-            onTime = currentArrow.transform.position.y > 0.5f && currentArrow.transform.position.y < 5f;
+            onTime = currentArrow.transform.position.y > 1.5f && currentArrow.transform.position.y < 3.3f;
 
             if (Input.GetKeyDown(KeyCode.W))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Up") {
                     SetAnimationDirection("Up");
-                    miss = false;
-                    missClick = false; // Reset 'missclick' to false
-                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection == "Up") {
-                    missClick = true;
-                    StartCoroutine(ResetMissAfterDelay(.5f));                     
+                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Up") {
                     SetAnimationDirection("UpMiss");
-                    miss = false;
                 }
             }
             else if (Input.GetKeyDown(KeyCode.S))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
                     SetAnimationDirection("Down");
-                    miss = false;
-                    missClick = false; // Reset 'missclick' to false
-                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
-                    missClick = true;
-                    StartCoroutine(ResetMissAfterDelay(.5f));  
+                } else if (onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Down") {
                     SetAnimationDirection("DownMiss");
-                    miss = false;
                 }
 
             }
@@ -61,55 +48,27 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Left") {
                     SetAnimationDirection("Left");
-                    miss = false;
-                    missClick = false; // Reset 'missclick' to false
-                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection == "Left") {
-                    missClick = true;
-                    StartCoroutine(ResetMissAfterDelay(.5f));  
+                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Left") {
                     SetAnimationDirection("LeftMiss");
-                    miss = false;
                 }
             }
             else if (Input.GetKeyDown(KeyCode.D))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
                     SetAnimationDirection("Right");
-                    miss = false;
-                    missClick = false; // Reset 'missclick' to false
-                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
-                    missClick = true;
-                    StartCoroutine(ResetMissAfterDelay(.5f));  
+                } else if (onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Right") {
                     SetAnimationDirection("RightMiss");
-                    miss = false;
                 }
             }
-           
-            if (!Input.anyKey && !missClick && !miss)
+            else if (!Input.anyKey)
             {
                 ResetAnimations();
-            }             
-            else if (onTime && !missClick && !Input.anyKey)
-            {
-                miss = true;
-                StartCoroutine(ResetMissAfterDelay(.5f));  
-                if (currentArrow.GetComponent<MovingObject>().arrowDirection == "Up") {
-                    SetAnimationDirection("UpMiss");
-                } else if (currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
-                    SetAnimationDirection("DownMiss");
-                } else if (currentArrow.GetComponent<MovingObject>().arrowDirection == "Left") {
-                    SetAnimationDirection("LeftMiss");
-                } else if (currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
-                    SetAnimationDirection("RightMiss");
-                }        
-            }   
+            }
         }
     }
     private IEnumerator ResetMissAfterDelay(float delay)
     {
         yield return new WaitForSeconds(delay); // Wait for the specified time
-        miss = false; // Reset 'miss' to false
-        missClick = false; // Reset 'missclick' to false
-        ResetAnimations();
     }
     private void ResetAnimations()
     {

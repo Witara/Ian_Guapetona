@@ -61,17 +61,17 @@ public class ObjectSpawner : MonoBehaviour
                 xPosition = -3f;
                 break;
             case 1: // Down
-                directionText = "Up";
+                directionText = "Down";
                 rotation = new Vector3(0f, 0f, -270f);
                 xPosition = -4.2f;
                 break;
             case 2: // Left
-                directionText = "Up";
+                directionText = "Left";
                 rotation = new Vector3(0f, 0f, -360f);
                 xPosition = -5.2f;
                 break;
             case 3: // Right
-                directionText = "Up";
+                directionText = "Right";
                 rotation = new Vector3(0f, 0f, -180f);
                 xPosition = -1.9f;
                 break;
