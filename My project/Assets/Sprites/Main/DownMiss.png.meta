@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 780d7ac040409084a85de0feb239960e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6971839254527334863
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -1970058732051970675
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 5107177078935106354
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 8592279969694224082
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -8238720817070639876
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -6843438137626698041
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 6458523199155524119
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -8514035952195929369
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 6560879801825318267
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -9052686329599399225
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7514447674471797017
+    second: YokuTzenBFDownMissNoteAnim-ezgif.com-gif-to-sprite-converter_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DownMiss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220f094a45a7bcd4bb2f80b081752992
+      internalID: -1582785967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 784
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5b938025855a409b0aaf8a6212ed4
+      internalID: -1794883114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 784
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82483deac94c5974cb15dc5555dc3b11
+      internalID: -1432785523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 784
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e22450a3a310142a24658e73d210ad
+      internalID: 1403138594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 784
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c564cf140a7233d49a74a0db8a1dd17c
+      internalID: -458563175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6290ba7acbd49b04a9606d255dd3e080
+      internalID: 1855340069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 392
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20975193205569459c98015e418dea1
+      internalID: -1013930368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 392
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7bee315ab53b443b410aaba1e0be40
+      internalID: -1976737073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_8
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 392
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46270d69d8556f64b995ef994fbc89b8
+      internalID: 374818738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 392
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c22acf635dbb4459ba21169f4ce087
+      internalID: -1177821704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownMiss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398abcdc9d5890439117a1cc9ff8a20
+      internalID: -1197245529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 771bb81e625c78847b0da5078ed7058a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DownMiss_0: -1582785967
+      DownMiss_1: -1794883114
+      DownMiss_10: -1197245529
+      DownMiss_2: -1432785523
+      DownMiss_3: 1403138594
+      DownMiss_4: -458563175
+      DownMiss_5: 1855340069
+      DownMiss_6: -1013930368
+      DownMiss_7: -1976737073
+      DownMiss_8: 374818738
+      DownMiss_9: -1177821704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

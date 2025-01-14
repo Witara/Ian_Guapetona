@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 04eeb1fdefc386540b46edd78509f528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2077351722767470930
+    second: Speakers (1) (1)_0
+  - first:
+      213: -4375214088245227865
+    second: Speakers (1) (1)_1
+  - first:
+      213: -3775791718478222698
+    second: Speakers (1) (1)_2
+  - first:
+      213: 1399859942528697030
+    second: Speakers (1) (1)_3
+  - first:
+      213: -1500413247408333188
+    second: Speakers (1) (1)_4
+  - first:
+      213: -683541650451779604
+    second: Speakers (1) (1)_5
+  - first:
+      213: 7595887425684972838
+    second: Speakers (1) (1)_6
+  - first:
+      213: -551088669381037558
+    second: Speakers (1) (1)_7
+  - first:
+      213: -8133645337817643508
+    second: Speakers (1) (1)_8
+  - first:
+      213: -616120231677631159
+    second: Speakers (1) (1)_9
+  - first:
+      213: 1003179807482107338
+    second: Speakers (1) (1)_10
+  - first:
+      213: 1728067656177933598
+    second: Speakers (1) (1)_11
+  - first:
+      213: 4657749269777922005
+    second: Speakers (1) (1)_12
+  - first:
+      213: 71539113833348475
+    second: Speakers (1) (1)_13
+  - first:
+      213: -2505855122141917846
+    second: Speakers (1) (1)_14
+  - first:
+      213: 2951839926599805928
+    second: Speakers (1) (1)_15
+  - first:
+      213: 6807469321102086126
+    second: Speakers (1) (1)_16
+  - first:
+      213: 56510530414249354
+    second: Speakers (1) (1)_17
+  - first:
+      213: -260162908153502913
+    second: Speakers (1) (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speakers (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d915b26c34dc10800000000000000
+      internalID: 2077351722767470930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 265
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aecbd5b7fd1843c0800000000000000
+      internalID: -4375214088245227865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 265
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a6e32ef61b99bc0800000000000000
+      internalID: -3775791718478222698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 265
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c8b1733d4d6310800000000000000
+      internalID: 1399859942528697030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e9febd9167d2be0800000000000000
+      internalID: -1500413247408333188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef23af8d729386f0800000000000000
+      internalID: -683541650451779604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speakers (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 471
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252fc17e530a6960800000000000000
+      internalID: 7595887425684972838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1918887eb1daf8a4fa66d1718ab60da8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Speakers (1) (1)_0: 2077351722767470930
+      Speakers (1) (1)_1: -4375214088245227865
+      Speakers (1) (1)_2: -3775791718478222698
+      Speakers (1) (1)_3: 1399859942528697030
+      Speakers (1) (1)_4: -1500413247408333188
+      Speakers (1) (1)_5: -683541650451779604
+      Speakers (1) (1)_6: 7595887425684972838
+      Speakers (1) (1)_7: -551088669381037558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

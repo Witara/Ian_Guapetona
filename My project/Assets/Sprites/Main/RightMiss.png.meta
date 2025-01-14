@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: dc8dded57a878bf42909509ca30b9bb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2702450509209589626
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -2035299788516217673
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -3419320954067215409
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -1224784194715176371
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -6286605522339333437
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -7818653849802170152
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -4998770517253209174
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -3450506114166417941
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 2989369970660309886
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -8370782018027338822
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 2044446309816222240
+    second: YokuTzenBFRightMissNoteAnim-ezgif.com-gif-to-sprite-converter_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightMiss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37feab570c397e746a6faff0b6082eaf
+      internalID: 1459818690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 864
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d855529ea1d8498faa19e784ee851
+      internalID: 2060854607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40839c0b25adb2745bdb808e04ba2b60
+      internalID: -1674463201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 864
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bd1ccfdfcbfa4eb26dd0f0f4cfa2c
+      internalID: 2072113018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 864
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05d79ebbffd464ab0430a4737c61b9
+      internalID: 1039706285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcabad38fc1ec446bce63354f814fd3
+      internalID: 48386512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae22632c23f8124ea9a3edc274f2bf9
+      internalID: 1276833599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 432
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25432621d4b6d4a9e1617a5dfbe860
+      internalID: -1783894401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 432
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692f6d561935c64d8d02b9de6f21756
+      internalID: -253719072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 432
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135bde509b11a04b9f7c2592c085a04
+      internalID: -104396800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightMiss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356830a703a6a547a01bd26dd313704
+      internalID: 442809567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 85a92f50532cc274fac278a59650580f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RightMiss_0: 1459818690
+      RightMiss_1: 2060854607
+      RightMiss_10: 442809567
+      RightMiss_2: -1674463201
+      RightMiss_3: 2072113018
+      RightMiss_4: 1039706285
+      RightMiss_5: 48386512
+      RightMiss_6: 1276833599
+      RightMiss_7: -1783894401
+      RightMiss_8: -253719072
+      RightMiss_9: -104396800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

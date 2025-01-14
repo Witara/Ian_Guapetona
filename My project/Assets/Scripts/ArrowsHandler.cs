@@ -7,6 +7,7 @@ public class ObjectSpawner : MonoBehaviour
     public GameObject objectToSpawn; // The prefab to spawn
     private float spawnDelay; // Delay between spawns
     public Vector2 screenBounds; // Define screen bounds for object deletion
+    public static List<GameObject> spawnedArrows = new List<GameObject>();
 
     void Start()
     {
@@ -45,7 +46,7 @@ public class ObjectSpawner : MonoBehaviour
     {
         // Instantiate the object
         GameObject newObject = Instantiate(objectToSpawn);
-
+        spawnedArrows.Add(newObject);
         // Randomly choose one of the four directions
         int directionIndex = Random.Range(0, 4);
         string directionText = "Up"; // Default direction text
@@ -57,28 +58,28 @@ public class ObjectSpawner : MonoBehaviour
             case 0: // Up
                 directionText = "Up";
                 rotation = new Vector3(0f, 0f, -90f);
-                xPosition = 2f;
+                xPosition = -3f;
                 break;
             case 1: // Down
                 directionText = "Down";
                 rotation = new Vector3(0f, 0f, -270f);
-                xPosition = 0f;
+                xPosition = -4.2f;
                 break;
             case 2: // Left
                 directionText = "Left";
                 rotation = new Vector3(0f, 0f, -360f);
-                xPosition = -2f;
+                xPosition = -5.2f;
                 break;
             case 3: // Right
                 directionText = "Right";
                 rotation = new Vector3(0f, 0f, -180f);
-                xPosition = 4f;
+                xPosition = -1.9f;
                 break;
         }
 
         // Set the rotation and position
         newObject.transform.eulerAngles = rotation;
-        newObject.transform.position = new Vector3(xPosition, -50, 0);
+        newObject.transform.position = new Vector3(xPosition, -50, -3);
 
         // Assign the direction to the MovingObject script
         MovingObject movingObjectScript = newObject.GetComponent<MovingObject>();

@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 3ac100ef6e475284a93ef9ba410b61c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2837034099146525030
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -1780038292665715171
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 5658066074233876706
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -8624292351826293821
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -7503425673358609943
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -4656472709983074682
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 492097018745067902
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 999592925150457006
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 4068546526001211859
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 2934037355871116533
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7582832125365017594
+    second: YokuTzenBFUpMissNoteAnim-ezgif.com-gif-to-sprite-converter_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpMiss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd09de293df9dc4882a9ab044a32a5f
+      internalID: -939297757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 860
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3ae27203077e49a7ca387dbc24e3b
+      internalID: 1861847037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 860
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a581508789fd7d4cacffa2be1249e5d
+      internalID: -343806219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 860
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb8a1d9970d144da30317032bfcfcf
+      internalID: -3242081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 860
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf39d24245764a4286da2c2d3a1fa10
+      internalID: 1048159666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d436469b7d5249bcc561bc9e35820
+      internalID: -175426972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 430
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ecf2a9ed25ad4d8aa40112283278d
+      internalID: 1276154977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 430
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80c59a0299fa74ca5209301762915a
+      internalID: 1420077993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 430
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88354fe4ba16cd478b948fd482d332e
+      internalID: 340554978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 430
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d67bf69ed161b4582f04b6a2587218
+      internalID: 1829135941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpMiss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcc298c03d7d54d8253c103d53351d
+      internalID: 591607481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 383d5447b63052249857dda906f1b321
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UpMiss_0: -939297757
+      UpMiss_1: 1861847037
+      UpMiss_10: 591607481
+      UpMiss_2: -343806219
+      UpMiss_3: -3242081
+      UpMiss_4: 1048159666
+      UpMiss_5: -175426972
+      UpMiss_6: 1276154977
+      UpMiss_7: 1420077993
+      UpMiss_8: 340554978
+      UpMiss_9: 1829135941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
