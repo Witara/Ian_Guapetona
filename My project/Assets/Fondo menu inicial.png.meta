@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fondo menu inicial_0: -9127409485200367780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

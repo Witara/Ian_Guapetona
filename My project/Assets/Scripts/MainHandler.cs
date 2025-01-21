@@ -19,18 +19,19 @@ public class MainHandler : MonoBehaviour
     void Update()
     {
         currentArrow = ObjectSpawner.spawnedArrows
-            .Where(arrow => arrow != null && arrow.transform.position.y > -5f && arrow.transform.position.y < 8f)
+            .Where(arrow => arrow != null && arrow.transform.position.y > -5f && arrow.transform.position.y < 5.5f)
             .OrderBy(arrow => arrow.transform.position.y)
             .FirstOrDefault();
 
         if (currentArrow != null)
         {
-            onTime = currentArrow.transform.position.y > 1.5f && currentArrow.transform.position.y < 3.3f;
+            onTime = currentArrow.transform.position.y > -1.5f && currentArrow.transform.position.y < 5.5f;
 
             if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Up") {
                     SetAnimationDirection("Up");
+                    StartCoroutine(CheckArrowPosition());
                 } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Up") {
                     SetAnimationDirection("UpMiss");
                 }
@@ -39,6 +40,7 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
                     SetAnimationDirection("Down");
+                    StartCoroutine(CheckArrowPosition());
                 } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Down") {
                     SetAnimationDirection("DownMiss");
                 }
@@ -47,6 +49,7 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Left") {
                     SetAnimationDirection("Left");
+                    StartCoroutine(CheckArrowPosition());
                 } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Left") {
                     SetAnimationDirection("LeftMiss");
                 }
@@ -55,6 +58,7 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
                     SetAnimationDirection("Right");
+                    StartCoroutine(CheckArrowPosition());
                 } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Right") {
                     SetAnimationDirection("RightMiss");
                 }
@@ -69,6 +73,20 @@ public class MainHandler : MonoBehaviour
     private IEnumerator ResetMissAfterDelay(float delay)
     {
         yield return new WaitForSeconds(delay); // Wait for the specified time
+    }
+
+    IEnumerator CheckArrowPosition()
+    {
+        while (currentArrow != null)
+        {
+            if (currentArrow.transform.position.y >= 2.25f)
+            {
+                Destroy(currentArrow);
+                Debug.Log("Arrow destroyed after reaching 2f.");
+                yield break;  // Exit the coroutine
+            }
+            yield return null;  // Wait until the next frame
+        }
     }
     private void ResetAnimations()
     {
