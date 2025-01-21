@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Linq;
 using System.Collections;
 using System;
+using Unity.VisualScripting;
 
 public class MainHandler : MonoBehaviour
 {
@@ -17,7 +18,6 @@ public class MainHandler : MonoBehaviour
 
     void Update()
     {
-        // Find the arrow with the least Y position that's still on screen
         currentArrow = ObjectSpawner.spawnedArrows
             .Where(arrow => arrow != null && arrow.transform.position.y > -5f && arrow.transform.position.y < 8f)
             .OrderBy(arrow => arrow.transform.position.y)
@@ -39,10 +39,9 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
                     SetAnimationDirection("Down");
-                } else if (onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Down") {
+                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Down") {
                     SetAnimationDirection("DownMiss");
                 }
-
             }
             else if (Input.GetKeyDown(KeyCode.A))
             {
@@ -56,14 +55,15 @@ public class MainHandler : MonoBehaviour
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
                     SetAnimationDirection("Right");
-                } else if (onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Right") {
+                } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Right") {
                     SetAnimationDirection("RightMiss");
                 }
             }
-            else if (!Input.anyKey)
+            if (!Input.anyKey)
             {
                 ResetAnimations();
             }
+
         }
     }
     private IEnumerator ResetMissAfterDelay(float delay)
@@ -84,10 +84,7 @@ public class MainHandler : MonoBehaviour
 
     public void SetAnimationDirection(string direction)
     {
-        // Reset all animation keys
         ResetAnimations();
-
-        // Set the corresponding direction key
         switch (direction)
         {
             case "Up":
