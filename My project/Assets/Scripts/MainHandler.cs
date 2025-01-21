@@ -27,15 +27,15 @@ public class MainHandler : MonoBehaviour
         {
             onTime = currentArrow.transform.position.y > 1.5f && currentArrow.transform.position.y < 3.3f;
 
-            if (Input.GetKeyDown(KeyCode.W))
+            if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Up") {
                     SetAnimationDirection("Up");
                 } else if (!onTime || currentArrow.GetComponent<MovingObject>().arrowDirection != "Up") {
                     SetAnimationDirection("UpMiss");
                 }
-            }
-            else if (Input.GetKeyDown(KeyCode.S))
+            } 
+            else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Down") {
                     SetAnimationDirection("Down");
@@ -43,7 +43,7 @@ public class MainHandler : MonoBehaviour
                     SetAnimationDirection("DownMiss");
                 }
             }
-            else if (Input.GetKeyDown(KeyCode.A))
+            else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Left") {
                     SetAnimationDirection("Left");
@@ -51,7 +51,7 @@ public class MainHandler : MonoBehaviour
                     SetAnimationDirection("LeftMiss");
                 }
             }
-            else if (Input.GetKeyDown(KeyCode.D))
+            else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
             {
                 if (onTime && currentArrow.GetComponent<MovingObject>().arrowDirection == "Right") {
                     SetAnimationDirection("Right");
