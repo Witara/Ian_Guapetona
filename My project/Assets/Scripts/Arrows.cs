@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MovingObject : MonoBehaviour
 {
-    public float speed = .5f;
+    private float speed = 10f;
     public Vector2 screenBounds;
     public string arrowDirection;
 
