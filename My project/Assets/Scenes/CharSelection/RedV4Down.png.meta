@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedV4Down_0: -1284215265414354425
+      RedV4Down_1: 1466670630711563399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

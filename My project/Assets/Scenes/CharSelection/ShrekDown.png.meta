@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShrekDown_0: -7933489749691641379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
