@@ -5,6 +5,8 @@ using UnityEngine;
 public class ObjectSpawner : MonoBehaviour
 {
     public GameObject objectToSpawn; // The prefab to spawn
+    public GameObject enemy; // The prefab to spawn
+    public GameObject player; // The prefab to spawn
     private float spawnDelay; // Delay between spawns
     public Vector2 screenBounds; // Define screen bounds for object deletion
     public static List<GameObject> spawnedArrows = new List<GameObject>();
@@ -35,14 +37,17 @@ public class ObjectSpawner : MonoBehaviour
             yield return new WaitForSeconds(spawnDelay);
 
             // Spawn a new object if possible
-            if (objectToSpawn != null)
+            if (objectToSpawn != null && enemy.CompareTag("Singing"))
             {
-                SpawnObject();
+                SpawnObjectEnemy();
+            } else if (objectToSpawn != null && player.CompareTag("Singing"))
+            {
+                SpawnObjectPlayer();
             }
         }
     }
 
-    void SpawnObject()
+    void SpawnObjectEnemy()
     {
         // Instantiate the object
         GameObject newObject = Instantiate(objectToSpawn);
@@ -79,7 +84,7 @@ public class ObjectSpawner : MonoBehaviour
 
         // Set the rotation and position
         newObject.transform.eulerAngles = rotation;
-        newObject.transform.position = new Vector3(xPosition, -50, -3);
+        newObject.transform.position = new Vector3(xPosition, -10, -3);
 
         // Assign the direction to the MovingObject script
         MovingObject movingObjectScript = newObject.GetComponent<MovingObject>();
@@ -89,4 +94,52 @@ public class ObjectSpawner : MonoBehaviour
             movingObjectScript.arrowDirection = directionText; // Pass direction info
         }
     }
+    void SpawnObjectPlayer()
+    {
+        // Instantiate the object
+        GameObject newObject = Instantiate(objectToSpawn);
+        spawnedArrows.Add(newObject);
+        // Randomly choose one of the four directions
+        int directionIndex = Random.Range(0, 4);
+        string directionText = "Up"; // Default direction text
+        float xPosition = 0f; // Default X position
+        Vector3 rotation = Vector3.zero; // Default rotation
+
+        switch (directionIndex)
+        {
+            case 0: // Up
+                directionText = "Up";
+                rotation = new Vector3(0f, 0f, -90f);
+                xPosition = 4f;
+                break;
+            case 1: // Down
+                directionText = "Down";
+                rotation = new Vector3(0f, 0f, -270f);
+                xPosition = 2.8f;
+                break;
+            case 2: // Left
+                directionText = "Left";
+                rotation = new Vector3(0f, 0f, -360f);
+                xPosition = 1.7f;
+                break;
+            case 3: // Right
+                directionText = "Right";
+                rotation = new Vector3(0f, 0f, -180f);
+                xPosition = 5f;
+                break;
+        }
+
+        // Set the rotation and position
+        newObject.transform.eulerAngles = rotation;
+        newObject.transform.position = new Vector3(xPosition, -10, -3);
+
+        // Assign the direction to the MovingObject script
+        MovingObject movingObjectScript = newObject.GetComponent<MovingObject>();
+        if (movingObjectScript != null)
+        {
+            movingObjectScript.screenBounds = screenBounds;
+            movingObjectScript.arrowDirection = directionText; // Pass direction info
+        }
+    }
+
 }
